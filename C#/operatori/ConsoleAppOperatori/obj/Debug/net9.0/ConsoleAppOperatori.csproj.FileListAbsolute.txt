@@ -1,0 +1,14 @@
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/bin/Debug/net9.0/ConsoleAppOperatori
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/bin/Debug/net9.0/ConsoleAppOperatori.deps.json
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/bin/Debug/net9.0/ConsoleAppOperatori.runtimeconfig.json
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/bin/Debug/net9.0/ConsoleAppOperatori.dll
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/bin/Debug/net9.0/ConsoleAppOperatori.pdb
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ConsoleAppOperatori.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ConsoleAppOperatori.AssemblyInfoInputs.cache
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ConsoleAppOperatori.AssemblyInfo.cs
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ConsoleAppOperatori.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ConsoleAppOperatori.dll
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/refint/ConsoleAppOperatori.dll
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ConsoleAppOperatori.pdb
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ConsoleAppOperatori.genruntimeconfig.cache
+/home/tony/develop/C#/operatori/ConsoleAppOperatori/obj/Debug/net9.0/ref/ConsoleAppOperatori.dll

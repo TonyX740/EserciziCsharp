@@ -1,0 +1,14 @@
+/home/tony/develop/C#/prova/ConsoleAppProva/bin/Debug/net9.0/ConsoleAppProva
+/home/tony/develop/C#/prova/ConsoleAppProva/bin/Debug/net9.0/ConsoleAppProva.deps.json
+/home/tony/develop/C#/prova/ConsoleAppProva/bin/Debug/net9.0/ConsoleAppProva.runtimeconfig.json
+/home/tony/develop/C#/prova/ConsoleAppProva/bin/Debug/net9.0/ConsoleAppProva.dll
+/home/tony/develop/C#/prova/ConsoleAppProva/bin/Debug/net9.0/ConsoleAppProva.pdb
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ConsoleAppProva.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ConsoleAppProva.AssemblyInfoInputs.cache
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ConsoleAppProva.AssemblyInfo.cs
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ConsoleAppProva.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ConsoleAppProva.dll
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/refint/ConsoleAppProva.dll
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ConsoleAppProva.pdb
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ConsoleAppProva.genruntimeconfig.cache
+/home/tony/develop/C#/prova/ConsoleAppProva/obj/Debug/net9.0/ref/ConsoleAppProva.dll
