@@ -1,0 +1,14 @@
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/bin/Debug/net9.0/ConsoleAppInputUtenti
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/bin/Debug/net9.0/ConsoleAppInputUtenti.deps.json
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/bin/Debug/net9.0/ConsoleAppInputUtenti.runtimeconfig.json
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/bin/Debug/net9.0/ConsoleAppInputUtenti.dll
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/bin/Debug/net9.0/ConsoleAppInputUtenti.pdb
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ConsoleAppInputUtenti.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ConsoleAppInputUtenti.AssemblyInfoInputs.cache
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ConsoleAppInputUtenti.AssemblyInfo.cs
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ConsoleAppInputUtenti.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ConsoleAppInputUtenti.dll
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/refint/ConsoleAppInputUtenti.dll
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ConsoleAppInputUtenti.pdb
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ConsoleAppInputUtenti.genruntimeconfig.cache
+/home/tony/develop/C#/input/ConsoleAppInputUtenti/obj/Debug/net9.0/ref/ConsoleAppInputUtenti.dll

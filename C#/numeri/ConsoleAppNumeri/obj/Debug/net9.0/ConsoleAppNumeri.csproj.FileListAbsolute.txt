@@ -1,0 +1,14 @@
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/bin/Debug/net9.0/ConsoleAppNumeri
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/bin/Debug/net9.0/ConsoleAppNumeri.deps.json
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/bin/Debug/net9.0/ConsoleAppNumeri.runtimeconfig.json
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/bin/Debug/net9.0/ConsoleAppNumeri.dll
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/bin/Debug/net9.0/ConsoleAppNumeri.pdb
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ConsoleAppNumeri.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ConsoleAppNumeri.AssemblyInfoInputs.cache
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ConsoleAppNumeri.AssemblyInfo.cs
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ConsoleAppNumeri.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ConsoleAppNumeri.dll
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/refint/ConsoleAppNumeri.dll
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ConsoleAppNumeri.pdb
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ConsoleAppNumeri.genruntimeconfig.cache
+/home/tony/develop/C#/numeri/ConsoleAppNumeri/obj/Debug/net9.0/ref/ConsoleAppNumeri.dll
