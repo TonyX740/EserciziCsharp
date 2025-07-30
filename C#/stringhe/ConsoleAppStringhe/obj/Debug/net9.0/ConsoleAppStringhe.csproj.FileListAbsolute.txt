@@ -1,0 +1,14 @@
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/bin/Debug/net9.0/ConsoleAppStringhe
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/bin/Debug/net9.0/ConsoleAppStringhe.deps.json
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/bin/Debug/net9.0/ConsoleAppStringhe.runtimeconfig.json
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/bin/Debug/net9.0/ConsoleAppStringhe.dll
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/bin/Debug/net9.0/ConsoleAppStringhe.pdb
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ConsoleAppStringhe.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ConsoleAppStringhe.AssemblyInfoInputs.cache
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ConsoleAppStringhe.AssemblyInfo.cs
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ConsoleAppStringhe.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ConsoleAppStringhe.dll
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/refint/ConsoleAppStringhe.dll
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ConsoleAppStringhe.pdb
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ConsoleAppStringhe.genruntimeconfig.cache
+/home/tony/develop/C#/stringhe/ConsoleAppStringhe/obj/Debug/net9.0/ref/ConsoleAppStringhe.dll

@@ -1,0 +1,14 @@
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/bin/Debug/net9.0/ConsoleAppTryCatch
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/bin/Debug/net9.0/ConsoleAppTryCatch.deps.json
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/bin/Debug/net9.0/ConsoleAppTryCatch.runtimeconfig.json
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/bin/Debug/net9.0/ConsoleAppTryCatch.dll
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/bin/Debug/net9.0/ConsoleAppTryCatch.pdb
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ConsoleAppTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ConsoleAppTryCatch.AssemblyInfoInputs.cache
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ConsoleAppTryCatch.AssemblyInfo.cs
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ConsoleAppTryCatch.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ConsoleAppTryCatch.dll
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/refint/ConsoleAppTryCatch.dll
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ConsoleAppTryCatch.pdb
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ConsoleAppTryCatch.genruntimeconfig.cache
+/home/tony/develop/C#/trycatch/ConsoleAppTryCatch/obj/Debug/net9.0/ref/ConsoleAppTryCatch.dll
