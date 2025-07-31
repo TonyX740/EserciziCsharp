@@ -12,3 +12,17 @@
 /home/tony/develop/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.pdb
 /home/tony/develop/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.genruntimeconfig.cache
 /home/tony/develop/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ref/ConsoleAppIfElse.dll
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/bin/Debug/net9.0/ConsoleAppIfElse
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/bin/Debug/net9.0/ConsoleAppIfElse.deps.json
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/bin/Debug/net9.0/ConsoleAppIfElse.runtimeconfig.json
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/bin/Debug/net9.0/ConsoleAppIfElse.dll
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/bin/Debug/net9.0/ConsoleAppIfElse.pdb
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.AssemblyInfoInputs.cache
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.AssemblyInfo.cs
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.csproj.CoreCompileInputs.cache
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.dll
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/refint/ConsoleAppIfElse.dll
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.pdb
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ConsoleAppIfElse.genruntimeconfig.cache
+/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/Debug/net9.0/ref/ConsoleAppIfElse.dll

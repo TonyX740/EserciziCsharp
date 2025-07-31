@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/tony/develop/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj": {}
+    "/home/tony/devel/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj": {}
   },
   "projects": {
-    "/home/tony/develop/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj": {
+    "/home/tony/devel/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/tony/develop/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj",
+        "projectUniqueName": "/home/tony/devel/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj",
         "projectName": "ConsoleAppIfElse",
-        "projectPath": "/home/tony/develop/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj",
+        "projectPath": "/home/tony/devel/C#/ifelse/ConsoleAppIfElse/ConsoleAppIfElse.csproj",
         "packagesPath": "/home/tony/.nuget/packages/",
-        "outputPath": "/home/tony/develop/C#/ifelse/ConsoleAppIfElse/obj/",
+        "outputPath": "/home/tony/devel/C#/ifelse/ConsoleAppIfElse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/tony/.nuget/NuGet/NuGet.Config"
@@ -54,18 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.5, 9.0.5]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
