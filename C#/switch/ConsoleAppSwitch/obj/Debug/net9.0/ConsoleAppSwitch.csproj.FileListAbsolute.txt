@@ -1,0 +1,14 @@
+/home/tony/develop/C#/switch/ConsoleAppSwitch/bin/Debug/net9.0/ConsoleAppSwitch
+/home/tony/develop/C#/switch/ConsoleAppSwitch/bin/Debug/net9.0/ConsoleAppSwitch.deps.json
+/home/tony/develop/C#/switch/ConsoleAppSwitch/bin/Debug/net9.0/ConsoleAppSwitch.runtimeconfig.json
+/home/tony/develop/C#/switch/ConsoleAppSwitch/bin/Debug/net9.0/ConsoleAppSwitch.dll
+/home/tony/develop/C#/switch/ConsoleAppSwitch/bin/Debug/net9.0/ConsoleAppSwitch.pdb
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ConsoleAppSwitch.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ConsoleAppSwitch.AssemblyInfoInputs.cache
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ConsoleAppSwitch.AssemblyInfo.cs
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ConsoleAppSwitch.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ConsoleAppSwitch.dll
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/refint/ConsoleAppSwitch.dll
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ConsoleAppSwitch.pdb
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ConsoleAppSwitch.genruntimeconfig.cache
+/home/tony/develop/C#/switch/ConsoleAppSwitch/obj/Debug/net9.0/ref/ConsoleAppSwitch.dll
