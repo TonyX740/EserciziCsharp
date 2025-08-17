@@ -1,0 +1,14 @@
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/bin/Debug/net9.0/ConsoleAppBreakContinue
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/bin/Debug/net9.0/ConsoleAppBreakContinue.deps.json
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/bin/Debug/net9.0/ConsoleAppBreakContinue.runtimeconfig.json
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/bin/Debug/net9.0/ConsoleAppBreakContinue.dll
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/bin/Debug/net9.0/ConsoleAppBreakContinue.pdb
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ConsoleAppBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ConsoleAppBreakContinue.AssemblyInfoInputs.cache
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ConsoleAppBreakContinue.AssemblyInfo.cs
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ConsoleAppBreakContinue.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ConsoleAppBreakContinue.dll
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/refint/ConsoleAppBreakContinue.dll
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ConsoleAppBreakContinue.pdb
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ConsoleAppBreakContinue.genruntimeconfig.cache
+/home/tony/develop/C#/BreakContinue/ConsoleAppBreakContinue/obj/Debug/net9.0/ref/ConsoleAppBreakContinue.dll

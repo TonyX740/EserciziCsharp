@@ -1,0 +1,14 @@
+/home/tony/develop/C#/for/ConsoleAppFor/bin/Debug/net9.0/ConsoleAppFor
+/home/tony/develop/C#/for/ConsoleAppFor/bin/Debug/net9.0/ConsoleAppFor.deps.json
+/home/tony/develop/C#/for/ConsoleAppFor/bin/Debug/net9.0/ConsoleAppFor.runtimeconfig.json
+/home/tony/develop/C#/for/ConsoleAppFor/bin/Debug/net9.0/ConsoleAppFor.dll
+/home/tony/develop/C#/for/ConsoleAppFor/bin/Debug/net9.0/ConsoleAppFor.pdb
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ConsoleAppFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ConsoleAppFor.AssemblyInfoInputs.cache
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ConsoleAppFor.AssemblyInfo.cs
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ConsoleAppFor.csproj.CoreCompileInputs.cache
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ConsoleAppFor.dll
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/refint/ConsoleAppFor.dll
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ConsoleAppFor.pdb
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ConsoleAppFor.genruntimeconfig.cache
+/home/tony/develop/C#/for/ConsoleAppFor/obj/Debug/net9.0/ref/ConsoleAppFor.dll
