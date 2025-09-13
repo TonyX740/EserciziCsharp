@@ -1,0 +1,14 @@
+/home/tony/devel/C#/array/ConsoleAppArray/bin/Debug/net9.0/ConsoleAppArray
+/home/tony/devel/C#/array/ConsoleAppArray/bin/Debug/net9.0/ConsoleAppArray.deps.json
+/home/tony/devel/C#/array/ConsoleAppArray/bin/Debug/net9.0/ConsoleAppArray.runtimeconfig.json
+/home/tony/devel/C#/array/ConsoleAppArray/bin/Debug/net9.0/ConsoleAppArray.dll
+/home/tony/devel/C#/array/ConsoleAppArray/bin/Debug/net9.0/ConsoleAppArray.pdb
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ConsoleAppArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ConsoleAppArray.AssemblyInfoInputs.cache
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ConsoleAppArray.AssemblyInfo.cs
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ConsoleAppArray.csproj.CoreCompileInputs.cache
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ConsoleAppArray.dll
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/refint/ConsoleAppArray.dll
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ConsoleAppArray.pdb
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ConsoleAppArray.genruntimeconfig.cache
+/home/tony/devel/C#/array/ConsoleAppArray/obj/Debug/net9.0/ref/ConsoleAppArray.dll
