@@ -1,0 +1,14 @@
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/bin/Debug/net9.0/ConsoleAppMetodi
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/bin/Debug/net9.0/ConsoleAppMetodi.deps.json
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/bin/Debug/net9.0/ConsoleAppMetodi.runtimeconfig.json
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/bin/Debug/net9.0/ConsoleAppMetodi.dll
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/bin/Debug/net9.0/ConsoleAppMetodi.pdb
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ConsoleAppMetodi.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ConsoleAppMetodi.AssemblyInfoInputs.cache
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ConsoleAppMetodi.AssemblyInfo.cs
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ConsoleAppMetodi.csproj.CoreCompileInputs.cache
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ConsoleAppMetodi.dll
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/refint/ConsoleAppMetodi.dll
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ConsoleAppMetodi.pdb
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ConsoleAppMetodi.genruntimeconfig.cache
+/home/tony/devel/C#/metodi/ConsoleAppMetodi/obj/Debug/net9.0/ref/ConsoleAppMetodi.dll
