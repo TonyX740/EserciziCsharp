@@ -1,0 +1,14 @@
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/bin/Debug/net9.0/ConsoleAppMatrix
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/bin/Debug/net9.0/ConsoleAppMatrix.deps.json
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/bin/Debug/net9.0/ConsoleAppMatrix.runtimeconfig.json
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/bin/Debug/net9.0/ConsoleAppMatrix.dll
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/bin/Debug/net9.0/ConsoleAppMatrix.pdb
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ConsoleAppMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ConsoleAppMatrix.AssemblyInfoInputs.cache
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ConsoleAppMatrix.AssemblyInfo.cs
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ConsoleAppMatrix.csproj.CoreCompileInputs.cache
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ConsoleAppMatrix.dll
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/refint/ConsoleAppMatrix.dll
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ConsoleAppMatrix.pdb
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ConsoleAppMatrix.genruntimeconfig.cache
+/home/tony/devel/C#/matrix/ConsoleAppMatrix/obj/Debug/net9.0/ref/ConsoleAppMatrix.dll
